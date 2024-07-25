@@ -31,3 +31,7 @@ How do you do fellow programmers? 🛹
 - 🥇 Rank 1 Poor Time Manager
 - 🦖 Survived Multiple Suicide Attempts
 - 🏌️‍♀️ Eats breakfast most mornings
+
+---
+
+![](https://raw.githubusercontent.com/dexxiez/dexxiez/main/bothgud.webp)
