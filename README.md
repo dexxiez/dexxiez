@@ -14,6 +14,10 @@ How do you do fellow programmers? 🛹
 - Calling everyone cowboys despite being the biggest one out there
 - Over optimizing, under delivering
 
+## 📇 Profound Programming Language Knowledge
+
+- English
+
 ## 📊 My Mind-Blowing Stats
 
 ![](https://komarev.com/ghpvc/?username=dexxiez&style=for-the-badge&color=blueviolet&label=people+bamboozled)
