@@ -20,6 +20,7 @@ How do you do fellow programmers? 🛹
 
 ## 📊 My Mind-Blowing Stats
 
+![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/dexxiez?style=for-the-badge&logo=npm&label=NPM%20DOWNLOADS&color=%23E5289E)
 ![](https://komarev.com/ghpvc/?username=dexxiez&style=for-the-badge&color=blueviolet&label=people+bamboozled)
 ![GitHub followers](https://img.shields.io/github/followers/dexxiez?style=for-the-badge&logo=github&label=friends%20i%20don't%20have)
 
