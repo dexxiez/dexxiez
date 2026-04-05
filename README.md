@@ -25,7 +25,8 @@ How do you do fellow programmers? 🛹
 ![GitHub followers](https://img.shields.io/github/followers/dexxiez?style=for-the-badge&logo=github&label=friends%20i%20don't%20have)
 
 
-![Dexxiez's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexxiez&show_icons=true&theme=synthwave)
+![Dexxiez's GitHub stats](./profile/stats.svg)
+![Top Languages](./profile/langs.svg)
 
 ## 🏆 My Achievements
 
